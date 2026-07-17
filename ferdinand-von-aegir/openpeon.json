@@ -1,0 +1,138 @@
+{
+  "cesp_version": "1.0",
+  "name": "ferdinand-von-aegir",
+  "display_name": "Ferdinand von Aegir (FE3H)",
+  "version": "1.0.0",
+  "description": "Noble audio alerts featuring Ferdinand von Aegir from Fire Emblem: Three Houses. Voiced by the late, great Billy Kametz",
+  "author": {
+    "name": "PD",
+    "github": "JazzFiend"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/I_am_FVA.wav",
+          "label": "I am Ferdinand von Aegir!",
+          "sha256": "46638d082ae8c4ad885016a363efc64755ab8c435aeeb3dfc196b6f3375b7da0"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/I_would_be_honored.wav",
+          "label": "I would be honored.",
+          "sha256": "8bf20d92f0cc654c94fccdff2889c9d49a119659c5272aa4c6ebae7993ffaf48"
+        },
+        {
+          "file": "sounds/Into_the_fray.wav",
+          "label": "Into the fray!",
+          "sha256": "3962ddcffde1800c1ade8d24037236ca762ffd59a7bbee33ce72e2b38c7a4287"
+        },
+        {
+          "file": "sounds/It_begins.wav",
+          "label": "It begins...",
+          "sha256": "d6b005d6c1d80e34e18522ef19e9972fbef4198fd3f4433cf481f225f1f18a41"
+        },
+        {
+          "file": "sounds/Seems_simple_enough.wav",
+          "label": "Seems simple enough...",
+          "sha256": "676c4178e6f78e0ae88b94187efff9c91622c3b8188b054a28e4b388ce0f2ce5"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/A_true_noble_never_fails.wav",
+          "label": "A true noble never fails!",
+          "sha256": "64a227ee75eafa7f763a93c4b1cb8b2bc61b23a81b48a6be02255758c9945167"
+        },
+        {
+          "file": "sounds/It_is_done.wav",
+          "label": "It is done.",
+          "sha256": "6dc213c152e25d6f24a4794f1ddb93f89f6ad237c387a4339ee30f99ceb7cdb8"
+        },
+        {
+          "file": "sounds/People_like_me_are_quick_studies.wav",
+          "label": "People like me are quick studies.",
+          "sha256": "0feb2f74dc855f7ac3a0651c9e99dc4533c3c117ac25c6fa634d4b65a259f081"
+        },
+        {
+          "file": "sounds/The_mark_of_nobility.wav",
+          "label": "The mark of nobility!",
+          "sha256": "3144cc714e2e9c34515796e7b0a7fa4ce919f430b6ff4a70d2f6fd3022cad1be"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/22.wav",
+          "label": "Augh!",
+          "sha256": "85dd136394d10dd904b49a24eb465b5c07eec4b743e5de474bf033487be41b3d"
+        },
+        {
+          "file": "sounds/24.wav",
+          "label": "Urgh!",
+          "sha256": "496ae35146ef9ebb950876c401c9c4aa258bc849e69a5d28b7906f049d6274b3"
+        },
+        {
+          "file": "sounds/I_am_not_well_pleased.wav",
+          "label": "I am not well pleased...",
+          "sha256": "5c0500b6d561dc68792d476a9447415fe107f494ca4ddb90d54d667bb79264fd"
+        },
+        {
+          "file": "sounds/This_cant_be_right.wav",
+          "label": "This can't be right...",
+          "sha256": "f55c539f540bbb331d89f295f1331568f61db04c6c2932d2b60977be63371cbd"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/Please_assist_me.wav",
+          "label": "Please assist me!",
+          "sha256": "2fa447fc0caabc4ea6c9b907faed6f8fb98324dec85b342c563bb1471c9986f2"
+        },
+        {
+          "file": "sounds/What_now.wav",
+          "label": "What now?",
+          "sha256": "b69a6f642b744c092f89eabb37aa1456859f9828d8083621c3c90dc34ed08d74"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/I_can_fight_through_anything.wav",
+          "label": "I can fight through anything...",
+          "sha256": "4cb5565bbc7457782cd75c1f6bf138660b78fea3f4cbea35d340b656b03bea32"
+        },
+        {
+          "file": "sounds/Ill_fight_to_the_very_last.wav",
+          "label": "I'll fight to the very last...",
+          "sha256": "f519d04e90d545710e6ef4a5ffb751173c012eb0123caf7faece0d97d9f994c8"
+        },
+                {
+          "file": "sounds/Not_worth_the_risk.wav",
+          "label": "Not worth the risk...",
+          "sha256": "23e90e6f252ad5871e4aa875f74cb28102621ccb6aedf90fbd5bdf6ec72b307b"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/What_a_thing_to_say.wav",
+          "label": "What a thing to say! Do I look that pitiful?",
+          "sha256": "ab44a9141a7e42f5e34b66809cbba7acb1eaaa6a74ec5daf2e77f6ded7aff89e"
+        }
+      ]
+    }
+  }
+}
