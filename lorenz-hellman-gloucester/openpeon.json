@@ -1,0 +1,173 @@
+{
+  "cesp_version": "1.0",
+  "name": "lorenz-hellman-gloucester",
+  "display_name": "Lorenz Hellman Gloucester (FE3H)",
+  "version": "1.0.0",
+  "description": "Audio alerts with terrible haircuts featuring Lorenz Hellman Gloucester from Fire Emblem: Three Houses. Voiced by the excellent Ben Diskin.",
+  "author": {
+    "name": "PD",
+    "github": "JazzFiend"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/I_stand_ready.wav",
+          "label": "I stand ready.",
+          "sha256": "6d90b52c9b87616cd9e41b9d9d0a4247b47c749b33b4c7bcc7f2a8334db4ce19"
+        },
+        {
+          "file": "sounds/I_was_just_thinking_that_i_wanted_to_speak_with_you.wav",
+          "label": "I was just thinking that I wanted to speak with you.",
+          "sha256": "30dc97aaf8a19a5b0e9028db9e01f2d81c935d6fcaf10d5749ca426361027901"
+        },
+        {
+          "file": "sounds/My_name_is_lorenz_hellman_glouster.wav",
+          "label": "My name is Lorenz Hellman Glouster. You'll want to remember it.",
+          "sha256": "055cff6d78f35d080a3adbe3cd6cf29d3981d13f68f10fdba971c62b33bdc685"
+        },
+        {
+          "file": "sounds/Shall_we.wav",
+          "label": "Shall we?",
+          "sha256": "68918005032fba67fe0ddbc0f1ebc71c006a50be2b6a0c7ae1074fd56196e52a"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/Allow_me.wav",
+          "label": "Allow me.",
+          "sha256": "4b1e2fb688b4e4e364e6f1d0b152b1cdc9a15fb52a42fa58bc55a3245b9768e9"
+        },
+        {
+          "file": "sounds/Delighted_to_help.wav",
+          "label": "Delighted to help.",
+          "sha256": "43f00b4d6064b50fc641c4ff62078f9e0eb2c57dc9520ae950ac5a7cd165db1a"
+        },
+        {
+          "file": "sounds/One_must_not_fear_a_challenge.wav",
+          "label": "One must not fear a challenge.",
+          "sha256": "e9fa875c5b7c8d10c7d8fe3d2f0fb3865a42042fc08c7ef496ed507bdcca717d"
+        },
+        {
+          "file": "sounds/This_is_suited_to_my_talents.wav",
+          "label": "This is suited to my talents.",
+          "sha256": "80d4154a63ae57760bd9ada83d86e7d67eaf0d8c8c4d2e0587a6900a70e6da39"
+        },
+        {
+          "file": "sounds/This_will_secure_my_place_in_history.wav",
+          "label": "This will secure my place in history!",
+          "sha256": "6cff076dc93e344001afff96d04aecc8b34bf945fe6160b12ca6488ba420a60c"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/A_nobleman_does_his_duty.wav",
+          "label": "A nobleman does his duty.",
+          "sha256": "f312ec45926d7b909d7a2efc1123825eb9ece55f6f881d7c348c7ce841dc73ac"
+        },
+        {
+          "file": "sounds/It_was_only_a_trifle.wav",
+          "label": "It was only a trifle.",
+          "sha256": "075c04f49aa0c9cdd91969a33f792a53bfd289f541bf5bd4244d406b41200734"
+        },
+        {
+          "file": "sounds/My_efforts_have_borne_fruit.wav",
+          "label": "My efforts have borne fruit.",
+          "sha256": "24d8fcf7ecbb5191b47cd4ba88db2310b314630d48c52c1718f1f27244cf31ab"
+        },
+        {
+          "file": "sounds/This_was_hardly_a_challenge_for_me.wav",
+          "label": "This was hardly a challenge for me.",
+          "sha256": "b22e41da5d3b800e7f69600984bbf6793a725ae56aee6d86a695eac234776768"
+        },
+        {
+          "file": "sounds/Was_there_any_doubt.wav",
+          "label": "Was there any doubt?",
+          "sha256": "a17e69fa408f6eaee79bbf8db00afd7eb78d9cdc17a2cdd4e4d9cd6e339b4bff"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/I_thought_i_gave_it_my_all.wav",
+          "label": "I thought I gave it my all!",
+          "sha256": "a1dd50f659ac1ccd1b8ef44afd81dbb29fe717b30f8506b20091ab9f2ba90993"
+        },
+        {
+          "file": "sounds/Me_of_all_people.wav",
+          "label": "Me! Of all people! Really?",
+          "sha256": "e7c17c6bb65354b408a432b7a7fb4a0640d2cf9ba4f6a732c26818ca65250e69"
+        },
+        {
+          "file": "sounds/Preposterous.wav",
+          "label": "Preposterous!",
+          "sha256": "eb979c9b0a0da9207998299ff24c2926e1e472593716f0aca3cea2700beb7865"
+        },
+        {
+          "file": "sounds/There_must_be_some_mistake.wav",
+          "label": "There must be some misktake!",
+          "sha256": "e7a1b88ef3da5b68cd1c2021b68e228e7501b2241c288c95e0b29b44c14135c4"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/Good_but_not_enough.wav",
+          "label": "Good, but not enough.",
+          "sha256": "b4269bada305957a04ef6b43b2e962c187a5af2591b1a38d8eb42fc221dedad7"
+        },
+        {
+          "file": "sounds/I_would_like_to_ask_you_something.wav",
+          "label": "I would like to ask you something.",
+          "sha256": "7bdab1b08c8639232c22e2a8f9414a1d04759e3305c868eb322e48695e655ba6"
+        },
+        {
+          "file": "sounds/Im_getting_to_the_heart_of_it.wav",
+          "label": "I am getting to the heart of it.",
+          "sha256": "36156fc3971c270276010779722cad446f1334e0c2b24b7666836ba066f7f297"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/I_can_still_fight.wav",
+          "label": "I can still fight...",
+          "sha256": "650fdc0bc663c264ada34545b6df942c252d8a29742688ed96363d2528fba4de"
+        },
+        {
+          "file": "sounds/I_will_not_fall.wav",
+          "label": "I will not fall...",
+          "sha256": "bff926d0e5aab52181f767cdc7e1384a4556996c9feb7ede85ba4e00ec7851cb"
+        },
+        {
+          "file": "sounds/Let_us_be_cautious.wav",
+          "label": "Let us be cautious...",
+          "sha256": "4323abb5b5893317421e99665e985f56148c1a8fb6adcc91d6527245309be637"
+        },
+        {
+          "file": "sounds/Steady_now.wav",
+          "label": "Urgh, steady now...",
+          "sha256": "78bb6aab6fc2552455f2d02bc2fd7d190804402acc8d1aa113233779147cb3e3"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/Something_appears_to_be_wrong_with_my_throat.wav",
+          "label": "Something appears to be wrong with my throat...",
+          "sha256": "fc98746b9e4a6372c4239a1d94d03a9025918265512ac5a46ec5794a7784abaa"
+        }
+      ]
+    }
+  }
+}
