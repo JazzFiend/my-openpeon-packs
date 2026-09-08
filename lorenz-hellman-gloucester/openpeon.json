@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "lorenz-hellman-gloucester",
   "display_name": "Lorenz Hellman Gloucester (FE3H)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Audio alerts with terrible haircuts featuring Lorenz Hellman Gloucester from Fire Emblem: Three Houses. Voiced by the excellent Ben Diskin.",
   "author": {
     "name": "PD",
@@ -24,8 +24,8 @@
           "sha256": "30dc97aaf8a19a5b0e9028db9e01f2d81c935d6fcaf10d5749ca426361027901"
         },
         {
-          "file": "sounds/My_name_is_lorenz_hellman_glouster.wav",
-          "label": "My name is Lorenz Hellman Glouster. You'll want to remember it.",
+          "file": "sounds/My_name_is_lorenz_hellman_gloucester.wav",
+          "label": "My name is Lorenz Hellman Gloucester. You'll want to remember it.",
           "sha256": "055cff6d78f35d080a3adbe3cd6cf29d3981d13f68f10fdba971c62b33bdc685"
         },
         {
