@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "sc_science_vessel",
+  "display_name": "Terran Science Vessel (StarCraft)",
+  "version": "1.0.0",
+  "description": "Explorer ship audio alerts featuring the Terran Science Vessel from StarCraft",
+  "author": {
+    "name": "PD",
+    "github": "JazzFiend"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/tverdy00.wav",
+          "label": "Explorer reporting.",
+          "sha256": "f22d588a2dcc2d05179fcc52a690008c13201f810d63891124d1a278c1dabc59"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/tveyes00.wav",
+          "label": "Let's Roll!",
+          "sha256": "56ff309098f5ccddeac638c09dcf927471544c4174fd0d1a93fc8034b5bb18cd"
+        },
+        {
+          "file": "sounds/tveyes01.wav",
+          "label": "Excellent!",
+          "sha256": "0e09348cbe7b42c4282c7d2fb29388b4653d4bae8f7c4217e2cf348348481d79"
+        },
+        {
+          "file": "sounds/tveyes02.wav",
+          "label": "Commencing.",
+          "sha256": "5a47862b8e1d13202ef0972d0941afcb8faa80964a8173b2307df2bebffe060e"
+        },
+        {
+          "file": "sounds/tveyes03.wav",
+          "label": "Affirmative, sir!",
+          "sha256": "97b27704a652d27178ec2c0210075877cc7737bd5c4f195a906fde8d0041ce5a"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/tvepss00.wav",
+          "label": "I like the cut of your jib!",
+          "sha256": "ccb7fa3a78096e8c2626792397a96affeca2470b59e416b02a15758c56c73d22"
+        },
+        {
+          "file": "sounds/tvewht00.wav",
+          "label": "Ah, greetings command!",
+          "sha256": "227131e37165e97ad548b075e6e0ae8edcc5feaa5e0f7741c247364aaa71aa26"
+        },
+        {
+          "file": "sounds/tvewht003.wav",
+          "label": "We have you on visual.",
+          "sha256": "e2553a42aed3079be6828bfa951d408aa5ded8bb5fd5903f8dba9e089db77db9"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/tvedth00.wav",
+          "label": "*explosion*",
+          "sha256": "46fd45e632b3b84731bb00269c9f1790bc2c5911b7f7fbb6d465f67aed2f62fc"
+        },
+        {
+          "file": "sounds/tvepss03.wav",
+          "label": "Who set all these lab monkeys free?!",
+          "sha256": "56ff75a8e384ede40d0aa028dcce860ff44d0b1e40dad1102fc47824e572668c"
+        },
+        {
+          "file": "sounds/tvepss04.wav",
+          "label": "I think we may have a gas leak.",
+          "sha256": "4356f49d2a019cbfd8e699f03fed94225792e72f1455f9333498d0a8219dc1ac"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/tvewht01.wav",
+          "label": "Transmit orders.",
+          "sha256": "54df585b397be7e328c0dda2a947a934d5c878b12df60ff51169ccff9301db30"
+        },
+        {
+          "file": "sounds/tvewht02.wav",
+          "label": "Recieving, headquarters.",
+          "sha256": "315f08c450ea3d7635ca22542250ca931d57532302d060f41634a288d8e2da53"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/tvepss05.wav",
+          "label": "Do any of you fools know how to turn off this infernal contraption?!",
+          "sha256": "70d1349f5a6d414cca4b779d584cbca00a9f543de4ad5844d2ab48b7e3d32152"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/tvepss01.wav",
+          "label": "E=mc... D'oh, let me get my notepad...",
+          "sha256": "18ea9417dfa44e1e1b04feba640240a0ef8c1718affa1f77c19678e79fecb942"
+        },
+        {
+          "file": "sounds/tvepss06.wav",
+          "label": "The ship... Out of danger?",
+          "sha256": "90f19820711547c9876d0d7348966aa5f3ff5b015900e14fdea1792675ae2d9c"
+        }
+      ]
+    }
+  }
+}
