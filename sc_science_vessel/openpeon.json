@@ -57,7 +57,7 @@
           "sha256": "227131e37165e97ad548b075e6e0ae8edcc5feaa5e0f7741c247364aaa71aa26"
         },
         {
-          "file": "sounds/tvewht003.wav",
+          "file": "sounds/tvewht03.wav",
           "label": "We have you on visual.",
           "sha256": "e2553a42aed3079be6828bfa951d408aa5ded8bb5fd5903f8dba9e089db77db9"
         }
@@ -100,7 +100,7 @@
       "sounds": [
         {
           "file": "sounds/tvepss05.wav",
-          "label": "Do any of you fools know how to turn off this infernal contraption?!",
+          "label": "Do any of you fools know how to shut off this infernal contraption?!",
           "sha256": "70d1349f5a6d414cca4b779d584cbca00a9f543de4ad5844d2ab48b7e3d32152"
         }
       ]
