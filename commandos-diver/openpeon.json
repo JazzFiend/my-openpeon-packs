@@ -1,0 +1,124 @@
+{
+    "cesp_version": "1.0",
+    "name": "commandos-diver",
+    "display_name": "Diver - Commandos: Behind Enemy Lines",
+    "version": "1.0.0",
+    "description": "Elite marine audio alerts from Sergeant James \"Fins\" Blackwood a.k.a. The Diver from Commandos: Behind Enemy Lines",
+    "author": {
+        "name": "PD",
+        "github": "JazzFiend"
+    },
+    "license": "CC-BY-NC-4.0",
+    "language": "en",
+    "categories": {
+        "session.start": {
+            "sounds": [
+                {
+                    "file": "sounds/Select01.wav",
+                    "label": "Yes, sir?",
+                    "sha256": "03f9f47adf0f33d268c348cd1ebfc85caf3be11b678e1b004454586dbfdfa483"
+                }
+            ]
+        },
+        "task.acknowledge": {
+            "sounds": [
+                {
+                    "file": "sounds/Acknowledge02.wav",
+                    "label": "Coming, sir!",
+                    "sha256": "7190f1592b169398405e5336e41e79731727e1f85cb94e343a9aaf16fc1883dc"
+                },
+                {
+                    "file": "sounds/Acknowledge03.wav",
+                    "label": "Coming right over... sir.",
+                    "sha256": "e27a9f53b4f7c978b7e58fad7804d853b8431bec80b09d6fd2a2ee913cc01063"
+                },
+                {
+                    "file": "sounds/Acknowledge05.wav",
+                    "label": "Immediately, sir.",
+                    "sha256": "a15f17fe7c7d0dddec36f3988a58b4379693e480e83aff7bb68a51ffe829835c"
+                }
+            ]
+        },
+        "task.complete": {
+            "sounds": [
+                {
+                    "file": "sounds/Acknowledge01.wav",
+                    "label": "Yes, sir.",
+                    "sha256": "7037ecf59a4a7efcc87374e7bec83fba561147c89b5d5cc37c47ca49944cc737"
+                },
+                {
+                    "file": "sounds/Acknowledge04.wav",
+                    "label": "Understood, sir!",
+                    "sha256": "c6235a89c4e9444659d4c75ebe8ef93db55587349dc93bff0554a9d7104c909e"
+                },
+                {
+                    "file": "sounds/Acknowledge06.wav",
+                    "label": "Right-o, sir!",
+                    "sha256": "45d4f5a067842332c578899feff5199316914224710d816f8f353957100c1093"
+                }
+            ]
+        },
+        "task.error": {
+            "sounds": [
+                {
+                    "file": "sounds/BadCommand01.wav",
+                    "label": "Impossible, sir!",
+                    "sha256": "d2aca2926adc1d1714ef04ef6d190b4036af25f683f6638bb825a6188853f365"
+                },
+                {
+                    "file": "sounds/BadCommand02.wav",
+                    "label": "Can't do that, sir!",
+                    "sha256": "25aebf52b964d295b1fd91fd1682953e051247206e6bfa317840f8fb1a2480df"
+                },
+                {
+                    "file": "sounds/BadCommand03.wav",
+                    "label": "No way, sir.",
+                    "sha256": "32d2e4b693d10b6024fbec1e775589e44a653c535df81b4d876007dde69b0b92"
+                }
+            ]
+        },
+        "input.required": {
+            "sounds": [
+                {
+                    "file": "sounds/Help01.wav",
+                    "label": "Ah! I'm bein' attacked, sir!",
+                    "sha256": "9eb384afe36a4a5857d6b5eaa8ac0ddd29260e0eb27ef67c42a21d44002d0935"
+                },
+                {
+                    "file": "sounds/Help02.wav",
+                    "label": "Urgh! Help!",
+                    "sha256": "c24b1ce5fde4d2f383ee3a9979ba8c73c1029c5a5fbf30a95c900e60b1b4e67e"
+                },
+                {
+                    "file": "sounds/Help03.wav",
+                    "label": "Oww! Sir, help!",
+                    "sha256": "8e3297ba9be483cb773ee3d00c913606eccb167e9358dfd6c612337023e9bf24"
+                }
+            ]
+        },
+        "resource.limit": {
+            "sounds": [
+                {
+                    "file": "sounds/Scream01.wav",
+                    "label": "Augh!",
+                    "sha256": "ceef0495578f8dccd86b5252fa61337740f965c654a0d47f9dd0acc51fdcba27"
+                },
+                {
+                    "file": "sounds/Scream02.wav",
+                    "label": "Agh!",
+                    "sha256": "6d6983f422a269221116abf5ddffc259b80dd40e2663a476fde0a68b1c37978c"
+                },
+                {
+                    "file": "sounds/Scream03.wav",
+                    "label": "Ugh!",
+                    "sha256": "131472ea2da05a2e2163f42c201043d87f76ddcf28ea99a248a788140e73088a"
+                },
+                {
+                    "file": "sounds/Scream04.wav",
+                    "label": "Ahh!",
+                    "sha256": "3e10236f4aeed6250425e8019bbc40b8e6c93711b9bef0d5db64d889ba3f1b4e"
+                }
+            ]
+        }
+    }
+}
