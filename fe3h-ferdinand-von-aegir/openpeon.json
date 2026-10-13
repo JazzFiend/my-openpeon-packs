@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "fe3h-ferdinand-von-aegir",
   "display_name": "Ferdinand von Aegir (FE3H)",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Noble audio alerts featuring Ferdinand von Aegir from Fire Emblem: Three Houses. Voiced by the late, great Billy Kametz",
   "author": {
     "name": "PD",
@@ -28,8 +28,8 @@
           "sha256": "31dcf9b29985feed3abbcb0181fce090b1ee549c0970741f00c0bdf8c9c20610"
         },
         {
-          "file": "sounds/Facinating_plan.wav",
-          "label": "Facinating plan!",
+          "file": "sounds/Fascinating_plan.wav",
+          "label": "Fascinating plan!",
           "sha256": "543f1322d60427d8d2f3ce915f3e9a15cb0cbea22b5ce6b5d2b2d750f77c260f"
         },
         {
@@ -248,7 +248,7 @@
           "sha256": "7fbd437131a2602ba53e4011d99e6c9419ca71b6468611ee969f2f502806b91f"
         },
         {
-          "file": "sounds/The_eldest_son_of_house_aeier_will_not_be_so_easily_swayed.wav",
+          "file": "sounds/The_eldest_son_of_house_aegir_will_not_be_so_easily_swayed.wav",
           "label": "Well... The eldest son of House Aegir will not be so easily swayed.",
           "sha256": "9b9ba396f15f29891343841fefc4bc37f778202f3d0afce379993ca5e59d44af"
         },
